@@ -1,4 +1,4 @@
-# Snack Purchase Analysis 🛒
+# Snack Purchase Analysis
 
 This project provides a comprehensive analysis of customer purchasing behavior for chips by exploring key sales patterns, demographic influences, and consumer preferences. The analysis includes data-driven exploration and statistical testing to derive actionable insights for businesses, focusing on identifying key trends, segment contributions, and purchasing patterns across various demographics. By leveraging data exploration techniques and statistical tests, the project uncovers insights into product preferences and customer behavior. 
 
